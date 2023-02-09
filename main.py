@@ -97,7 +97,7 @@ def world():
 
 
 def move():
-    """Move pacman and all ghostswrtertty."""
+    """Move pacman and all ghostswrtertty3t3ew5t3e5t4546."""
     writer.undo()
     writer.write(state['score'])
 
