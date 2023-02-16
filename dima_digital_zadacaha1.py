@@ -1,7 +1,7 @@
-"1 variant"
+"""1 variant"""
 a = input('umnaya_bashka')
 b = input('tupaya_bashka')
-if a == b;
+if a == b:
     print('parol true')
-else
+else:
     print('parol false')
